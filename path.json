@@ -1,1 +1,28 @@
-{"mark":[{"x":1190,"y":1180,"time":0,"event":"walk"},{"x":1460,"y":910,"time":0,"event":"walk"},{"x":2200,"y":920,"time":0,"event":"walk"},{"x":2280,"y":270,"time":0,"event":"walk"}]}
+{
+  "mark": [
+    {
+      "x": 1190,
+      "y": 1180,
+      "time": 0,
+      "event": "walk"
+    },
+    {
+      "x": 1460,
+      "y": 910,
+      "time": 0,
+      "event": "walk"
+    },
+    {
+      "x": 2200,
+      "y": 920,
+      "time": 0,
+      "event": "walk"
+    },
+    {
+      "x": 2280,
+      "y": 270,
+      "time": 0,
+      "event": "walk"
+    }
+  ]
+}
