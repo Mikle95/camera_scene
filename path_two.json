@@ -7,10 +7,22 @@
       "event": "walk"
     },
     {
+      "x": 1190,
+      "y": 1180,
+      "time": 5,
+      "event": "call"
+    },
+    {
       "x": 1460,
       "y": 910,
       "time": 0,
       "event": "walk"
+    },
+    {
+      "x": 1460,
+      "y": 910,
+      "time": 5,
+      "event": "drink"
     },
     {
       "x": 2200,
@@ -29,6 +41,12 @@
       "y": 270,
       "time": 0,
       "event": "walk"
+    },
+    {
+      "x": 2280,
+      "y": 270,
+      "time": 10,
+      "event": "sit"
     }
   ],
   "Ben": [
