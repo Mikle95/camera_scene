@@ -1,0 +1,132 @@
+{
+  "mark": [
+    {
+      "x": 1770,
+      "y": 929,
+      "time": 0,
+      "event": "walk"
+    },
+    {
+      "x": 1924,
+      "y": 897,
+      "time": 0,
+      "event": "walk"
+    },
+    {
+      "x": 2122,
+      "y": 919,
+      "time": 0,
+      "event": "walk"
+    },
+    {
+      "x": 2308,
+      "y": 999,
+      "time": 0,
+      "event": "walk"
+    },
+    {
+      "x": 2524,
+      "y": 1015,
+      "time": 0,
+      "event": "walk"
+    },
+    {
+      "x": 2748,
+      "y": 985,
+      "time": 0,
+      "event": "walk"
+    },
+    {
+      "x": 3084,
+      "y": 967,
+      "time": 0,
+      "event": "walk"
+    },
+    {
+      "x": 3314,
+      "y": 955,
+      "time": 0,
+      "event": "walk"
+    },
+    {
+      "x": 3322,
+      "y": 650,
+      "time": 0,
+      "event": "walk"
+    },
+    {
+      "x": 3322,
+      "y": 650,
+      "time": 5,
+      "event": "stay"
+    },
+    {
+      "x": 3314,
+      "y": 955,
+      "time": 0,
+      "event": "walk"
+    },
+    {
+      "x": 2928,
+      "y": 973,
+      "time": 0,
+      "event": "walk"
+    },
+    {
+      "x": 2626,
+      "y": 999,
+      "time": 0,
+      "event": "walk"
+    },
+    {
+      "x": 2358,
+      "y": 917,
+      "time": 0,
+      "event": "walk"
+    },
+    {
+      "x": 2124,
+      "y": 914,
+      "time": 0,
+      "event": "walk"
+    },
+    {
+      "x": 1885,
+      "y": 1000,
+      "time": 0,
+      "event": "walk"
+    },
+    {
+      "x": 1910,
+      "y": 1226,
+      "time": 0,
+      "event": "walk"
+    }
+  ],
+  "Ben": [
+    {
+      "x": 1720,
+      "y": 929,
+      "time": 2,
+      "event": "stay"
+    },
+    {
+      "x": 1770,
+      "y": 929,
+      "time": 0,
+      "event": "walk"
+    },
+    {
+      "x": 2000,
+      "y": 897,
+      "time": 0,
+      "event": "walk"
+    },
+    {
+      "x": 2000,
+      "y": 1326,
+      "time": 0,
+      "event": "walk"
+    }
+  ]
+}
