@@ -73,8 +73,7 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*1
 
-Content/__*
-Content/C*
-Content/S*
+Content/Chara*
+Content/Starter*
 
 *.fbx
